@@ -1,0 +1,17 @@
+#canvas {
+display: block;
+margin: auto;
+border: 5px solid;
+border-color: white;
+}
+
+#header{
+    color: white;
+     text-align: center;
+}
+
+#fundo{
+    background: url('../img/pac-man.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
